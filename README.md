@@ -1,4 +1,4 @@
-# UI Design - Location-Tracker Using HTML CSS
+# UI Design - Location Tracker Using HTML CSS
 
 This is source code of Youtube Channel Video Tutorial.
 
